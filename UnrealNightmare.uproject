@@ -3,17 +3,7 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "UnrealNightmare",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
-	"Plugins": [
+		"Plugins": [
 		{
 			"Name": "Paper2D",
 			"Enabled": true
