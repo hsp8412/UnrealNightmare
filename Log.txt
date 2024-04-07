@@ -1,15 +1,27 @@
 Player Action: Focus
 Computer Action: Attack
+Player HP: 2000.0
+Computer HP: 2940.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 0
+Computer Brace: 0
 --------------
 Player Action: Attack
-Computer Action: Block
+Computer Action: Brace
+Player HP: 1930.0
+Computer HP: 2940.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 0
+Computer Brace: 0
 --------------
-Player Action: Magic
-Computer Action: Block
---------------
-Player Action: Block
-Computer Action: Block
---------------
-Player Action: Block
+Player Action: Attack
 Computer Action: Attack
+Player HP: 1880.0
+Computer HP: 2900.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 0
+Computer Brace: 0
 --------------
