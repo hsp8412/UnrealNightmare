@@ -1,0 +1,15 @@
+Player Action: Focus
+Computer Action: Attack
+--------------
+Player Action: Attack
+Computer Action: Block
+--------------
+Player Action: Magic
+Computer Action: Block
+--------------
+Player Action: Block
+Computer Action: Block
+--------------
+Player Action: Block
+Computer Action: Attack
+--------------
