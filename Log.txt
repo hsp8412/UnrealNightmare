@@ -1,0 +1,100 @@
+Player Action: Focus
+Computer ActrionAttack
+Player HP: 2000.0
+Computer HP: 2940.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 0
+Computer Brace: 0
+Weather: Sunny
+-----------------------------
+Player Action: Focus
+Computer ActrionAttack
+Player HP: 2000.0
+Computer HP: 2880.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 0
+Computer Brace: 0
+Weather: Sunny
+-----------------------------
+Player Action: Focus
+Computer ActrionBlock
+Player HP: 2000.0
+Computer HP: 2880.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 4
+Computer Brace: 0
+Weather: Sunny
+-----------------------------
+Player Action: Attack
+Computer ActrionAttack
+Player HP: 1930.0
+Computer HP: 2840.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 3
+Computer Brace: 0
+Weather: Sunny
+-----------------------------
+Player Action: Brace
+Computer ActrionAttack
+Player HP: 1930.0
+Computer HP: 2780.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 2
+Computer Brace: 0
+Weather: Sunny
+-----------------------------
+Player Action: Magic
+Computer ActrionAttack
+Player HP: 1860.0
+Computer HP: 2740.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 1
+Computer Brace: 0
+Weather: Sunny
+-----------------------------
+Player Action: Brace
+Computer ActrionAttack
+Player HP: 1860.0
+Computer HP: 2680.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 0
+Computer Brace: 0
+Weather: Raining
+-----------------------------
+Player Action: Block
+Computer ActrionAttack
+Player HP: 1820.0
+Computer HP: 2680.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 0
+Computer Brace: 0
+Weather: Sunny
+-----------------------------
+Player Action: Brace
+Computer ActrionAttack
+Player HP: 1820.0
+Computer HP: 2620.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 0
+Computer Brace: 0
+Weather: Raining
+-----------------------------
+Player Action: Shield
+Computer ActrionAttack
+Player HP: 1820.0
+Computer HP: 2580.0
+Player Focus: 0
+Player Brace: 0
+Computer Focus: 0
+Computer Brace: 0
+Weather: Raining
+-----------------------------
